@@ -1,0 +1,44 @@
+[
+  {
+    "tipo": "oficina",
+    "nombre": "Oficina 1",
+    "descripcion": "Perfecta para desarrollo e innovación, se beneficia de una ubicación estratégica y características que promueven la productividad y el bienestar de los equipos.",
+    "valor": 84990
+  },
+  {
+    "tipo": "oficina",
+    "nombre": "Oficina 2",
+    "descripcion": "Optimizada para gestión administrativa y coordinación.",
+    "valor": 371990
+  },
+  {
+    "tipo": "oficina",
+    "nombre": "Oficina 3",
+    "descripcion": "Ideal para atención al cliente y ventas.",
+    "valor": 219000
+  },
+  {
+    "tipo": "sala",
+    "nombre": "Sala de Reuniones 1",
+    "descripcion": "Sala equipada para presentaciones y reuniones de equipo.",
+    "valor": 850000,
+    "equipamiento": ["Proyector", "Pizarra", "Conexión HDMI"],
+    "cantidadPersonas": 12
+  },
+  {
+    "tipo": "sala",
+    "nombre": "Sala de Reuniones 2",
+    "descripcion": "Espacio destinado a formaciones y capacitaciones internas.",
+    "valor": 1100000,
+    "equipamiento": ["Pantalla táctil", "Sillas ergonómicas", "Audio integrado"],
+    "cantidadPersonas": 20
+  },
+  {
+    "tipo": "sala",
+    "nombre": "Sala de Reuniones 3",
+    "descripcion": "Sala amplia para conferencias y eventos internos.",
+    "valor": 1500000,
+    "equipamiento": ["Micrófonos inalámbricos", "Sistema de sonido", "Pantalla gigante"],
+    "cantidadPersonas": 50
+  }
+]
