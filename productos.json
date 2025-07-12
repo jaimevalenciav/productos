@@ -13,7 +13,7 @@
       "tipo":"oficina",
       "titulo": "Oficina 2", 
       "descripcion": "Optimizada para gestión administrativa y coordinación.",
-      "precio": "$371.990 por Semana",
+      "precio": "$71.990 por Semana",
       "imagen": "./assets/oficina2.jpeg",
       "alt": "Oficina 2"
     },
@@ -22,7 +22,7 @@
       "tipo":"oficina",
       "titulo": "Oficina 3",
       "descripcion": "Ideal para atención al cliente y ventas.",
-      "precio": "$21.990 por Semana", 
+      "precio": "$81.990 por Semana", 
       "imagen": "./assets/oficina3.jpg",
       "alt": "Oficina 3"
     },
